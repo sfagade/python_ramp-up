@@ -1,0 +1,9 @@
+sqlite-demo/virtual
+**/.idea
+**/venv
+**/virtual
+**/.ipynb_checkpoints
+basic-data-manipulation/.project
+basic-data-manipulation/.pydevproject
+**/.DS_Store
+.DS_Store

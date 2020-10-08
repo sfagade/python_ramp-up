@@ -43,3 +43,8 @@ html, body {
 .container p {
     margin: 100px;
 }
+
+.message {
+    font-size: 15px;
+    color: #FF9999;
+}
